@@ -3,6 +3,7 @@
 
 # dependencies
 node_modules
+# /node_modules 하면 현재 경로의 node_modules를 이그노어 하기 때문.
 /.pnp
 .pnp.js
 
